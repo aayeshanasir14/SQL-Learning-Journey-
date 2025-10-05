@@ -1,17 +1,7 @@
---CLASS 1--
+🚀 My SQL Learning Journey
 
---Print your name:-- 
-SELECT 'AYESHA ' AS NAME;
+Hi everyone! 👋 I’m Ayesha Nasir, and I’ve officially started my SQL learning journey — a new chapter in my tech growth story! 📚✨
 
---Print your age:--
-
-SELECT 20 AS AGE;
-
---Add two numbers:--
-
-SELECT 10+9 AS SUM;
+Under the guidance of Sir Hafizullah Khokhar, I’m exploring how data really works — how it’s stored, structured, and brought to life through queries.
 
 
---Get today’s date:--
-
-SELECT GETDATE () AS TODAYDATE;
